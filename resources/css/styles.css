@@ -5,6 +5,10 @@
     --dialogue-text-color: #ffe1a8;
     --dialogue-image-background-color: #aa5551;
 
+    --dialogue-portrait-border-size: 8px;
+    --dialogue-gap: 0.5rem;
+    --dialogue-slide-transition: 1s ease-in-out;
+
     --dialogue-name-font: 'Pixelify Sans', serif;
     --dialogue-text-font: 'Pixelify Sans', sans-serif;
 }
@@ -22,7 +26,7 @@
 .dialogue_box .portrait {
     width: 15rem;
     height: 15rem;
-    border: var(--dialogue-border-color) 8px solid;
+    border: var(--dialogue-border-color) var(--dialogue-portrait-border-size) solid;
     background-color: var(--dialogue-image-background-color);
 }
 .dialogue_box .portrait img {
@@ -33,7 +37,7 @@
 .dialogue_box .right {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: var(--dialogue-gap);
     margin-left: 1rem;
 }
 .dialogue_box .name {
@@ -77,11 +81,11 @@
     width: fit-content;
     max-width: 15vw;
     flex-direction: column-reverse;
-    gap: 0.5rem;
+    gap: var(--dialogue-gap);
     padding: 0.75rem;
     padding-bottom: 0;
     transform: translate(100%, 0);
-    transition: bottom 1s ease-in-out;
+    transition: bottom var(--dialogue-slide-transition);
 }
 .dialogue_box .options .option_button {
     font-family: var(--dialogue-text-font);
