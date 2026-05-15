@@ -1,0 +1,26 @@
+{
+    "1": {
+        "prompt": "*Silence… you finally get a moment of silence after all you’ve been through. Maybe it’s bad for the business if there aren’t any customers right now, but you don’t care about that, you just want a break. You begin to close your eyes and drift off to slee-*"
+    }, 
+    "2": {   
+        "prompt": "YO CARDUMBA! (legally distinct catchphrase) It’s me, Bart! Sleeping on the job dude? Not cool… But hey, I’ll excuse it if you can whip me up a potion that makes me jump reallllyyyy high. I've always wondered what it looks like for tall people. But alas I stopped growing when I was 10, so I’m just 4 feet tall…",
+        "options": [
+            {
+                "text": "Ughhh… Let me nap…",
+                "response": "Y’know what man? I get it, I’ll let you be."
+            },
+            {
+                "text": "*tiredly* Yeah",
+                "response": "Awesome man, rock on!"
+            },
+            {
+                "text": "*Make a poop joke and then immediately fall asleep again*",
+                "response": "*Bart bursts out in laughter* HAH! Poo… man that’s funny… You got a wicked sense of humor yk… Yeah I’ll let you nap."
+            },
+            {
+                "text":"Sorry sir, but we’re out!",
+                "response": "Don’t even joke, lad."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "1": {
+        "prompt": "*The fungal creature  slowly rides a cloud of spores into the alley, as he lowers down, the spores shoot across the room and you inhale them, they smell abhorrent.*"
+    }, 
+    "2": {   
+        "prompt": "Oh, did my spores get into your nostrils? Sucks to be you… You got any potions that’ll let me teleport around? Yk a little zip and a zap or something? I’d be fine with a potion that lets me see stuff too…",
+        "options": [
+            {
+                "text": "We’re out",
+                "response": "I don’t even know why I came back.” *he leaves the shop, as he is exiting he turns around for one last glance at you, he scowls, and then looks away forever*"
+            },
+            {
+                "text": "We do!",
+                "response": "Alright, I guess you aren’t that bad…  *He cautiously shakes your hand*"
+            }
+        ]
+    }
+}

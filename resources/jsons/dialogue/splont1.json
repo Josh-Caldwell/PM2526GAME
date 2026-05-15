@@ -1,0 +1,25 @@
+{"1": {
+        "prompt": "*The creature approaches you, looks you up and down, and then continues to approach you*"
+    }, 
+    "2": {   
+        "prompt": "I'm here for an elixir, is it in stock? If so, then give it to me.",
+        "options": [
+            {
+                "text": "Get outta here dude!",
+                "response": "Ooh, this one’s zesty! I think I’ll just take a potion. Like, without paying. Names Splont by the way. *Spores pour out of his pores, and the spores surround a potion and carry it to him as he leaves, without paying*"
+            },
+            {
+                "text": "Any specific elixir?",
+                "response": "*he stares blankly, blinks, and then turns around and leaves after straining his brain too much*"
+            },
+            {
+                "text": "Yes, it is in stock",
+                "response": "Sweet, man. Consider yourself a friendgus of the fungus. My names Splont, by the way."
+            },
+            {
+                "text":"Huh… What…",
+                "response": "dude.. I dunno either dude.. That’s really deep bro… I like you."
+            }
+        ]
+    }
+}

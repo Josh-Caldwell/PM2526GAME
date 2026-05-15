@@ -1,0 +1,22 @@
+{
+    "1": {
+        "prompt": "*Bart drops in through a parachute, the parachute is lit on fire for dramatic effect. Once he’s on the ground he realizes the parachute’s fire is spreading to the rest of the shop and hastily pulls out a fire extinguisher from his back pocket and puts out the fire in a very 28 year old manner.*"
+    }, 
+    "2": {   
+        "prompt": "Yo, I’ve been thinking about this a lot, do you wanna be the brotato (Gender neutral) to my chip (gender-specific)?",
+        "options": [
+            {
+                "text": "Yes!",
+                "response": "Yo! Friggen sweet! Let’s ditch this sad business and move into my apartment! Oh, forgot to mention this earlier, but my roommate is a popular internet streamer named “Asmongold”, not that it should matter a ton though."
+            },
+            {
+                "text": "No way… Creep…",
+                "response": "Aw man… I really thought we had something…"
+            },
+            {
+                "text": "*Secret third option*",
+                "response": "Step into that hydraulic press? Sure! Why not? *Bart steps into the hydraulic press and gets squished into a cube, Bart-cube has been added to your inventory"
+            }
+        ]
+    }
+}

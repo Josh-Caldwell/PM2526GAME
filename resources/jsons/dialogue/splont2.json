@@ -1,0 +1,18 @@
+{
+    "1": {
+        "prompt": "*The fungal creature rides a cloud of spores up to you, as he lowers down, the spores shoot across the room and you inhale them, they smell abhorrent.*"
+    }, 
+    "2": {   
+        "prompt": "Ohhhhhh crap dude… I didn’t mean to spore all over you if you get my gist… Anyways, you got any potions that’ll make me see things cooked up for me?",
+        "options": [
+            {
+                "text": "Nope, we’re out.",
+                "response": "I hate you so, so much, I’m OUTTA here!” *he leaves the shop, as he is exiting he turns around for one last glance at you, you swear you saw a tear in his eye… Or some kind of liquid at least*"
+            },
+            {
+                "text": "Yep!",
+                "response": "Yo, Kronk, I knew I liked you man, c’mere dude. *He does a cool lil handshake with you and pats you on the back*"
+            }
+        ]
+    }
+}

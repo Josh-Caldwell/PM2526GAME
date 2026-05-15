@@ -1,0 +1,22 @@
+{
+    "1": {
+        "prompt": "*Spores begin pouring out of every crevice, you watch in awe as they conjoin into one singular creature…*"
+    }, 
+    "2": {   
+        "prompt": "Yo yo yo! That’s RIGHT man, it’s me, Splont! You got any sweet potions brewing?",
+        "options": [
+            {
+                "text": "*Profound quote*",
+                "response": "I’ll… I’ll have to think about that… *he leaves the alley, pondering…*"
+            },
+            {
+                "text": "Nah",
+                "response": "Sweet. I’ll buy a few."
+            },
+            {
+                "text": "Of Course!",
+                "response": "Sweet. I’ll buy a few."
+            }
+        ]
+    }
+}

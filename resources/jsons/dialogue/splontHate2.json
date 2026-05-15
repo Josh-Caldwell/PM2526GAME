@@ -1,0 +1,22 @@
+{
+    "1": {
+        "prompt": "*Spores begin pouring out of every crevice, you watch in awe as they conjoin into one singular creature…*"
+    }, 
+    "2": {   
+        "prompt": "Hey it’s me… Splont… My expectations are low man, I gotta say. But do you have a potion that’ll make me all dizzy?",
+        "options": [
+            {
+                "text": "Yes + *Paradoxical conundrum*",
+                "response": "I’ll… I’ll have to think about that… I didn’t know you knew elite ball like that… *he leaves the alley, pondering…*"
+            },
+            {
+                "text": "Nope.",
+                "response": "*He gives you a frown and leaves*"
+            },
+            {
+                "text": "Yeah, we got one!",
+                "response": "I guess I’ll buy one then..."
+            }
+        ]
+    }
+}

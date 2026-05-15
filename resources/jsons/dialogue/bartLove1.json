@@ -1,0 +1,26 @@
+{
+    "1": {
+        "prompt": "*Bart flutters down onto you 28-year-oldly, using a broken in-half skateboard as wings, somehow. He has a rose in his mouth, the thorns are still intact, it looks painful.*"
+    }, 
+    "2": {   
+        "prompt": "Yo Cardumdaw! (legally distinct catchphrase), I gotta say dude, I am OVER the moon for you! You’re rad as hell dude, I get a feeling in my stomach like butterflies when I’m around you. You got any anti-grav stuff for me? I’ve always wanted to try something like that.",
+        "options": [
+            {
+                "text": "I’m flattered, of course!",
+                "response": "Sweet! I’ll seeya later!"
+            },
+            {
+                "text": "*Call human services for harassment*",
+                "response": "*Human services barges into the shop and confronts Bart, before he’s dragged out, he says: “I’m Bart Simpson, who the hell are you?”*"
+            },
+            {
+                "text": "*In a tepid manner* uh, yeah…",
+                "response": "*Bart notices that you don’t seem too jazzed about his flirting* Oh, cool I guess. Thanks."
+            },
+            {
+                "text":"I’m flattered, but we don’t.",
+                "response": "Ah shucks, well that’s fine I suppose… *Bart leaves*"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "prompt": "*You see a horrific creature with a spiky head speed towards you on its skateboard, you begin to hyperventilate out of fear.*"
+    }, 
+    "2": {   
+        "prompt": "Yo what’s up dudes it's ME, Bart. Also known as: The Bartster, El Barto, Bart the Ripper, John Bartson, Bartacular Bart, Bart, Bar, Ba, B… But you can just call me Bart. Whip me up a potion Kronk!",
+        "options": [
+            {
+                "text": "I’m scared but ok.",
+                "response": "*Bart smirks* Heck yeah dude! I knew I could count on you!"
+            },
+            {
+                "text": "Use chatGPT to generate a response",
+                "response": "Oh looks like we got McStinkFaceGPT here, huh? A real smart guy. You STINK dude… *He turns around and storms out*"
+            },
+            {
+                "text": "Of course dude..",
+                "response": "Yeah, sure. Cool."
+            }
+        ]
+    }
+}

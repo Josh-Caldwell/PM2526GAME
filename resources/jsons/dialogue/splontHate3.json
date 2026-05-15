@@ -1,0 +1,22 @@
+{
+    "1": {
+        "prompt": "*The creature slowly approaches you, with nothing but hatred and sadness in its eyes*"
+    }, 
+    "2": {   
+        "prompt": "Uh hey, y’know you’ve really embarrassed me, made me feel horrible, and I HATE you for it, but I’m willing to give you one last chance to prove you’re worth my time.",
+        "options": [
+            {
+                "text": "*Apologize profusely*",
+                "response": "Well… You really are sorry then… But it’s too late now."
+            },
+            {
+                "text": "Don’t care lol",
+                "response": "That’s how it is then… *He slowly trudges away, never to be seen again*"
+            },
+            {
+                "text": "*Spew actual nonsense*",
+                "response": "Dude… You know just what to say…  *tears well up in his eyes* Gimme a potion for old times sake! *he buys a potion, and then leaves the store with a smile on his face*"
+            }
+        ]
+    }
+}

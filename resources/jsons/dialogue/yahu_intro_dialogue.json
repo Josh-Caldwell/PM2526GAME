@@ -14,6 +14,9 @@
                 "response": "Well unfortunately for you my friend, you don't have a choice in this matter.  You WILL make potions for me.",
                 "stats_impact": {
                     "gambling_anxiety": -5
+                },
+                "character_love_impact": {
+                    "Benjamin Netanyahu": -5
                 }
             }
         ]
@@ -29,6 +32,9 @@
                 "response": "I really dont care what you wanna do, just make the potions.",
                 "stats_impact": {
                     "gambling_anxiety": -5
+                },
+                "character_love_impact": {
+                    "Benjamin Netanyahu": -5
                 }
             }
         ]

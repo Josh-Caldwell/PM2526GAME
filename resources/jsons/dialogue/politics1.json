@@ -1,0 +1,26 @@
+{
+    "1": {
+        "prompt": "*A well-dressed man walks into the store and fixes his tie*"
+    }, 
+    "2": {   
+        "prompt": "Uh, hello I’m John B. Politics and I’m running to get re-elected in YOUR district! I’m running on a platform of common sense, civility, and affordability. Oh, uh, HOW would I implement that? Uh- well, you see, uhm, there's uh, a lot of really bad scary weapons in Gloopistan, uhm, they might hurt us with those, uh, I’m committed to the defense of our nation and to our soldiers, we should really like, attack Gloopistan, y’know? Well anyways I’m getting off-track, I’m here for a potion that’ll help me cook up some policy ideas, if I like it enough I might decide to redirect tax dollars to the potion industry in the next spending bill, which would be of great benefit to your establishment here, mind you.",
+        "options": [
+            {
+                "text": "I don’t like people from your party…",
+                "response": "Excuse me? That violates section B502 of the Millard Fillmore clause of the SBIDTWSDBOPIIYGWIS (So Basically I Don’t Think We Should Discriminate Based On Party Identification If You Get What I’m Saying) act of 1736! I WILL be sending my lawyers."
+            },
+            {
+                "text": "Dunno who you are but ok",
+                "response": "Oh, you haven’t heard about ME?! I’ll have you know that I negotiated the Treaty of Sweets and Candy between these two kids who were fighting over a lollipop on a playground in 1896! But fine, I’ll be generous and buy from you anyways."
+            },
+            {
+                "text": "*Glaze him*",
+                "response": "Oh, I’m sincerely flattered, I guess I am pretty admirable when it boils down to it, ignoring the stock fraud, destruction of Earth, lobbing that tomato at my ex-wife’s face which caused her to fall into the lake and drown. But we’re all human, are we not? Oh, uh, no, I guess we aren’t actually, there’s a lot of non-human species here…"
+            },
+            {
+                "text":"Sure! You have my vote now!",
+                "response": "Oh, so you don’t think it made sense for me to take your vote for granted before? After all the work I’ve done for your district? You know, I’m a really great person, I don’t know why you’d think I’m not, I thought it was obvious, jeez. You people genuinely make my blood boil, you’re the real threat to our nation's wellbeing."
+            }
+        ]
+    }
+}

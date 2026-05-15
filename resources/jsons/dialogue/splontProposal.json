@@ -1,0 +1,18 @@
+{
+    "1": {
+        "prompt": "*The creature manifests out of spores in front of you, it is holding a ring and flowers*"
+    }, 
+    "2": {   
+        "prompt": "Yo… I think you’re super cool… Wanna get married?",
+        "options": [
+            {
+                "text": "Hell no!",
+                "response": "Oh… I see… *He buys a numbing potion and stumbles out of the store*"
+            },
+            {
+                "text": "Oh my god yes! (end game)",
+                "response": "Hell yes…"
+            }
+        ]
+    }
+}
