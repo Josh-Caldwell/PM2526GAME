@@ -59,7 +59,8 @@ class CharacterContainer {
                             bubbles: true
                         }));
                     }
-                }
+                },
+                writable: true
             });
             
             data.moving_character = new MovingCharacter(data.name, data.image, 0, 0);
