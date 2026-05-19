@@ -21,7 +21,7 @@ document.addEventListener("event_name", (event) => {
 
 */
 
-for (const stat_name of stats.keys()) {
+for (const stat_name of Object.keys(stats)) {
     document.addEventListener(stat_name, (event) => {
         switch (stat_name) {
             case "money":
@@ -41,13 +41,6 @@ for (const stat_name of stats.keys()) {
                     console.log("Trigger All in bet sequence");
                 } else if (event.detail.value < 0 ) {
                     stats.gambling_anxiety.value = 0;
-                }
-                break;
-            case "netneyau_rage_love":
-                if (event.detail.value <= -100) {
-                    console.log("trigger rage ending");
-                } else if (event.detail.value >= 100) {
-                    console.log("trigger love ending");
                 }
                 break;
         }
