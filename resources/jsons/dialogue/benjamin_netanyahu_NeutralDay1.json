@@ -4,11 +4,23 @@
         "options": [
             {
                 "text": "Thanks?",
-                "response": "Aha, yes, anytime… Any. Time."
+                "response": "Aha, yes, anytime… Any. Time.",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "Benjamin Netanyahu": 2
+                }
             },
             {
                 "text": "Creep...",
-                "response": "I’m under investigation for war crimes. Do you really think I care if I’m a creep? Do your job."
+                "response": "I’m under investigation for war crimes. Do you really think I care if I’m a creep? Do your job.",
+                "stats_impact": {
+                    "gambling_anxiety": -1
+                },
+                "character_love_impact": {
+                    "Benjamin Netanyahu": -1
+                }
             }
         ]
     },
