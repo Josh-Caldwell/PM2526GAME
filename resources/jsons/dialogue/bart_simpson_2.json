@@ -1,0 +1,43 @@
+{
+    "1": {
+        "prompt": "*You see a horrific creature with a spiky head speed towards you on its skateboard, you begin to hyperventilate out of fear.*"
+    }, 
+    "2": {   
+        "prompt": "Yo what’s up dudes it's ME, Bart. Also known as: The Bartster, El Barto, Bart the Ripper, John Bartson, Bartacular Bart, Bart, Bar, Ba, B… But you can just call me Bart. Whip me up a potion Kronk!",
+        "options": [
+            {
+                "text": "I’m scared but ok.",
+                "extended_response": "Jeez dude you scared the soul out of me… But yeah sure brotein shake, I can do that.",
+                "response": "*Bart smirks* Heck yeah dude! I knew I could count on you!",
+                "stats_impact": {
+                    "gambling_anxiety": 2
+                },
+                "character_love_impact": {
+                    "bart_simpson": 8
+                }
+            },
+            {
+                "text": "Use chatGPT to generate a response",
+                "extended_response": "Yes, of course “Bart”--potions are an amazing way to trigger other-worldly experiences and relieve stress from work, school, and other troubles. They aren’t just liquids--they’re miracle workers!",
+                "response": "Oh looks like we got McStinkFaceGPT here, huh? A real smart guy. You STINK dude… *He turns around and storms out*",
+                "stats_impact": {
+                    "gambling_anxiety": -1
+                },
+                "character_love_impact": {
+                    "bart_simpson": -8
+                }
+            },
+            {
+                "text": "Of course dude..",
+                "extended_response": "Oh, yeah sure. I’ll have one right up in a sec.",
+                "response": "Yeah, sure. Cool.",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "bart_simpson": 3
+                }
+            }
+        ]
+    }
+}
