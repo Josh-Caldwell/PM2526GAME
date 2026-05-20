@@ -7,15 +7,35 @@
         "options": [
             {
                 "text": "Yes + *Paradoxical conundrum*",
-                "response": "I’ll… I’ll have to think about that… I didn’t know you knew elite ball like that… *he leaves the alley, pondering…*"
+                "extended_response": "Oh, we ALWAYS have potions for YOU… Although all generalizations are false, including this one…",
+                "response": "I’ll… I’ll have to think about that… I didn’t know you knew elite ball like that… *he leaves the alley, pondering…*",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 8
+                }
             },
             {
                 "text": "Nope.",
-                "response": "*He gives you a frown and leaves*"
+                "response": "*He gives you a frown and leaves*",
+                "stats_impact": {
+                    "gambling_anxiety": -1
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": -8
+                }
             },
             {
                 "text": "Yeah, we got one!",
-                "response": "I guess I’ll buy one then..."
+                "response": "I guess I’ll buy one then...",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 5
+                }
+                
             }
         ]
     }
