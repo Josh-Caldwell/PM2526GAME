@@ -1,0 +1,54 @@
+{
+    "1": {
+        "prompt": "*Silence… you finally get a moment of silence after all you’ve been through. Maybe it’s bad for the business if there aren’t any customers right now, but you don’t care about that, you just want a break. You begin to close your eyes and drift off to slee-*"
+    }, 
+    "2": {   
+        "prompt": "YO CARDUMBA! (legally distinct catchphrase) It’s me, Bart! Sleeping on the job dude? Not cool… But hey, I’ll excuse it if you can whip me up a potion that makes me jump reallllyyyy high. I've always wondered what it looks like for tall people. But alas I stopped growing when I was 10, so I’m just 4 feet tall…",
+        "options": [
+            {
+                "text": "Ughhh… Let me nap…",
+                "extended_response": "Urghhh… Buzz off dude… I’m trying to nap.",
+                "response": "Y’know what man? I get it, I’ll let you be.",
+                "stats_impact": {
+                    "gambling_anxiety": 0
+                },
+                "character_love_impact": {
+                    "bart_simpson": 0
+                }
+            },
+            {
+                "text": "*tiredly* Yeah",
+                "extended_response": "Ughhhh… Yk, I was talking with this fish in my uh, my dream, that I was just having. They said you smell like poo… Ha… Take that… *you then fall back asleep*",
+                "response": "Awesome man, rock on!",
+                "stats_impact": {
+                    "gambling_anxiety": 2
+                },
+                "character_love_impact": {
+                    "bart_simpson": 5
+                }
+            },
+            {
+                "text": "*Make a poop joke and then immediately fall asleep again*",
+                "extended_response": "Urghhh… Buzz off dude… I’m trying to nap.",
+                "response": "*Bart bursts out in laughter* HAH! Poo… man that’s funny… You got a wicked sense of humor yk… Yeah I’ll let you nap.",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "bart_simpson": 8
+                }
+            },
+            {
+                "text":"Sorry sir, but we’re out!",
+                "extended_response": "I apologize sir, but we don’t have any potions like that. Come back at a later date and we may have some in stock!",
+                "response": "Don’t even joke, lad.",
+                "stats_impact": {
+                    "gambling_anxiety": -1
+                },
+                "character_love_impact": {
+                    "bart_simpson": -5
+                }
+            }
+        ]
+    }
+}
