@@ -7,15 +7,39 @@
         "options": [
             {
                 "text": "*Apologize profusely*",
-                "response": "Well… You really are sorry then… But it’s too late now."
+                "extended_response": "Oh my gosh I’m so so so so so so so sorry man, I didn’t mean to hurt you I swear! I’ll give you a free potion, on the house!",
+                "response": "Well… You really are sorry then… But it’s too late now.",
+                "stats_impact": {
+                    "gambling_anxiety": 0
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": -10
+                }
+
             },
             {
                 "text": "Don’t care lol",
-                "response": "That’s how it is then… *He slowly trudges away, never to be seen again*"
+                "extended_response": "Oh, uh. Yeah. You just kind of suck to be honest.",
+                "response": "That’s how it is then… *He slowly trudges away, never to be seen again*",
+                "stats_impact": {
+                    "gambling_anxiety": -1
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": -10
+                }
+
             },
             {
                 "text": "*Spew actual nonsense*",
-                "response": "Dude… You know just what to say…  *tears well up in his eyes* Gimme a potion for old times sake! *he buys a potion, and then leaves the store with a smile on his face*"
+                "extended_response": "I hear it's amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hara-Kiri Rock. I need scissors! 61!",
+                "response": "Dude… You know just what to say…  *tears well up in his eyes* Gimme a potion for old times sake! *he buys a potion, and then leaves the store with a smile on his face*",
+                "stats_impact": {
+                    "gambling_anxiety": 3
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 20
+                }
+
             }
         ]
     }
