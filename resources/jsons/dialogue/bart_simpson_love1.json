@@ -3,23 +3,51 @@
         "prompt": "*Bart flutters down onto you 28-year-oldly, using a broken in-half skateboard as wings, somehow. He has a rose in his mouth, the thorns are still intact, it looks painful.*"
     }, 
     "2": {   
-        "prompt": "Yo Cardumdaw! (legally distinct catchphrase), I gotta say dude, I am OVER the moon for you! You’re rad as hell dude, I get a feeling in my stomach like butterflies when I’m around you. You got any anti-grav stuff for me? I’ve always wanted to try something like that.",
+        "prompt": "Yo Cardumdaw! (legally distinct catchphrase), I gotta say dude, I am OVER the moon for you! You’re rad as hell dude, I get a feeling in my stomach like butterflies when I’m around you. You got any [potion] for me? I’ve always wanted to try something like that.",
         "options": [
             {
-                "text": "I’m flattered, of course!",
-                "response": "Sweet! I’ll seeya later!"
+                "text": " Holy crap of course man.",
+                "extended_response": "Sweet, dude, I’m flattered. Yeah of course I can get you a [potion].",
+                "response": "Sweet! I’ll seeya later!",
+                "stats_impact": {
+                    "gambling_anxiety": 2
+                },
+                "character_love_impact": {
+                    "bart_simpson": 8
+                }
             },
             {
                 "text": "*Call human services for harassment*",
-                "response": "*Human services barges into the shop and confronts Bart, before he’s dragged out, he says: “I’m Bart Simpson, who the hell are you?”*"
+                "extended_response": "HELLO? HUMAN SERVICES?",
+                "response": "*Human services barges into the shop and confronts Bart, before he’s dragged out, he says: “I’m Bart Simpson, who the hell are you?”*",
+                "stats_impact": {
+                    "gambling_anxiety": 0
+                },
+                "character_love_impact": {
+                    "bart_simpson": -30
+                }
             },
             {
                 "text": "*In a tepid manner* uh, yeah…",
-                "response": "*Bart notices that you don’t seem too jazzed about his flirting* Oh, cool I guess. Thanks."
+                "extended_response": "Uh. Ok. Yeah I think we have that.",
+                "response": "*Bart notices that you don’t seem too jazzed about his flirting* Oh, cool I guess. Thanks.",
+                "stats_impact": {
+                    "gambling_anxiety": 0
+                },
+                "character_love_impact": {
+                    "bart_simpson": -3
+                }
             },
             {
                 "text":"I’m flattered, but we don’t.",
-                "response": "Ah shucks, well that’s fine I suppose… *Bart leaves*"
+                "extended_response": "Oh, listen I think you’re cool as hell too, but I don’t have the [potion] thing…",
+                "response": "Ah shucks, well that’s fine I suppose… *Bart leaves*",
+                "stats_impact": {
+                    "gambling_anxiety": 0
+                },
+                "character_love_impact": {
+                    "bart_simpson": -8
+                }
             }
         ]
     }
