@@ -7,7 +7,7 @@
         "options": [
             {
                 "text": "Of course sir Politics!",
-                "playertext": "Yes of course Mr. Politics! I can only imagine how difficult it has been to just stay afloat with prices being the way they are. People ought to be spending their money on necessities instead of useless junk like video games. By the way, nice limo!",
+                "extended_response": "Yes of course Mr. Politics! I can only imagine how difficult it has been to just stay afloat with prices being the way they are. People ought to be spending their money on necessities instead of useless junk like video games. By the way, nice limo!",
                 "response": "Yeah… It’s been rough, especially gas prices… But yeah my limo IS pretty rad and patriotic, isn’t it? I just hope the calming potion will be able to take my mind off the recession…",
                 "stats_impact": {
                     "gambling_anxiety": 1
@@ -18,7 +18,7 @@
             },
             {
                 "text": "We're out",
-                "response": "Oh my goodness… I’ll never be able to stop stressing about affording my basic necessities now… How could you do this to me??? Do you not see the working man (me) struggling from that high horse of yours?",
+                "extended_response": "Oh my goodness… I’ll never be able to stop stressing about affording my basic necessities now… How could you do this to me??? Do you not see the working man (me) struggling from that high horse of yours?",
                 "stats_impact": {
                     "gambling_anxiety": 0
                 },
@@ -28,7 +28,7 @@
             },
             {
                 "text": "No problem!",
-                "playertext": "Yeah I’ll get the potion, but how’d you afford the limo?",
+                "extended_response": "Yeah I’ll get the potion, but how’d you afford the limo?",
                 "response": "Ok yeah sweet, uh, well, the limo came from my own bank account, actually. I just thought it would be a nice reward after spending 3 hours using my elite ball knowledge to trade stocks (slang for insider trading), you gotta prioritize yourself sometimes with things the way they are, you should try it sometime!",
                 "stats_impact": {
                     "gambling_anxiety": 0
