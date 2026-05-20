@@ -7,11 +7,23 @@
         "options": [
             {
                 "text": "We’re out",
-                "response": "I don’t even know why I came back.” *he leaves the shop, as he is exiting he turns around for one last glance at you, he scowls, and then looks away forever*"
+                "response": "I don’t even know why I came back.” *he leaves the shop, as he is exiting he turns around for one last glance at you, he scowls, and then looks away forever*",
+                "stats_impact": {
+                    "gambling_anxiety": -3
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": -15
+                }
             },
             {
                 "text": "We do!",
-                "response": "Alright, I guess you aren’t that bad…  *He cautiously shakes your hand*"
+                "response": "Alright, I guess you aren’t that bad…  *He cautiously shakes your hand*",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 10
+                }
             }
         ]
     }
